@@ -34,4 +34,4 @@
 ### 编译步骤
 1. 克隆本仓库：
    ```bash
-   git clone https://github.com/yourname/ASI-Messenger.git
+   git clone [https://github.com/Open-Strategy-Blueprints/ASI-Messenger.git](https://github.com/Open-Strategy-Blueprints/ASI-Messenger.git)
