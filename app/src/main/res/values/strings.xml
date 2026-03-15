@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASI信使</string>
+    <string name="hint_code">输入你的独特暗号</string>
+    <string name="send_button">🚀 发送向宇宙</string>
+    <string name="status_idle">等待你的信号</string>
+    <string name="vision">为了人类进化 · 宇宙开发 · 文明迁跃</string>
+</resources>
